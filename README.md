@@ -1,13 +1,12 @@
-# Projekt Ideonella
+# BioInfo-Tools
 
-Bio-informatics simulation suite inspired by *Ideonella sakaiensis*. 
+A collection of high-performance Python scripts for biological data processing and chemical informatics.
 
-### 🛠️ Modules:
-- **Security Protocol**: Access control logic.
-- **Energy Management**: Simulation of metabolic efficiency.
-- **Drive System**: Locomotion logic.
-- **Scanner**: Environmental data analysis.
+### 🧬 Core Features:
+- Modular DNA/RNA sequence analysis.
+- Optimized for high-throughput computation on Linux systems.
+- Built with focus on algorithm efficiency.
 
-### 💻 Environment:
-- **OS**: CachyOS (Bore-LTO)
-- **Language**: Python
+### 🚀 System Stats:
+- Optimized for Ryzen 3 3250U architecture.
+- Running on CachyOS with customized Bore-LTO kernel.
