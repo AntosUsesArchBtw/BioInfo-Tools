@@ -216,3 +216,23 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# --- BIOINFORMATICS CUSTOM ---
+# Ignoruj surowe dane sekwencyjne (często ważą GB)
+*.fasta
+*.fastq
+*.fna
+*.gbk
+
+# Ignoruj wyniki analiz, które generujesz skryptami
+# (Lepiej, żeby ktoś uruchomił Twój kod i sam je wygenerował)
+wyniki/
+output/
+*.png
+*.pdf
+
+# --- CACHYOS / ARCH SPECIFIC ---
+# Śmieci menedżera plików Dolphin/KDE
+.directory
+# Pliki tymczasowe edytorów terminalowych
+*.swp
+*~
